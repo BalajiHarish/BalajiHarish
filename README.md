@@ -24,7 +24,7 @@
 <div align="center">
   <h3><b>🧑‍💻 About Me</b></h3>
   <p>
-    I am a passionate <b>Senior QA Engineer & Test Architect</b> with over <b>9 years of experience</b> in building scalable test automation across Banking, Finance, Healthcare, and more. 
+    I am a passionate <b>Senior QA Engineer & Test Architect</b> with over <b>10 years of experience</b> in building scalable test automation across Banking, Finance, Healthcare, and more. 
   </p>
 </div>
 
