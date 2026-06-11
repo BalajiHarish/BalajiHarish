@@ -3,7 +3,7 @@
 
   <p align="center">
     <a href="https://github.com/BalajiHarish">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=9%2B+Years+of+Excellence+in+Test+Automation;Architecting+Enterprise+QA+Frameworks;Exploring+LLM-based+Test+Automation;Mastering+Cypress,+Appium+%26+Playwright" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=10%2B+Years+of+Excellence+in+Test+Automation;Architecting+Enterprise+QA+Frameworks;Exploring+LLM-based+Test+Automation;Mastering+Cypress,+Appium+%26+Playwright" alt="Typing SVG" />
     </a>
   </p>
 
